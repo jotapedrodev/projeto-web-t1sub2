@@ -18,3 +18,9 @@ async function obterFilmes() {
         }
         
 }
+
+function cadastrarFilme() {
+    console.log("cadastrando...");
+    
+    
+}
